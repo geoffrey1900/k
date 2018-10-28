@@ -1,0 +1,8 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: monospace;
+  margin: 5px;
+  font-size: 15px;
+  background: #e0e0e0;
+}
